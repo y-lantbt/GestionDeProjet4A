@@ -3,3 +3,4 @@ ajout d'une ligne par utilisateur bis
 ajout d'une ligne par utilisateur original
 
 ajout par bis
+on fait un 2eme test pour voir apparraitre le conflit dans le fichier de base
