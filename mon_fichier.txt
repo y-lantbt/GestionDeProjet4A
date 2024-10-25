@@ -3,3 +3,4 @@ ajout d'une ligne par utilisateur original
 Je suis l'utilisateur original et je suis à la partie merge
 
 ajout par bis
+on fait un 2eme test pour voir apparraitre le conflit dans le fichier de base
